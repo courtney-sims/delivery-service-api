@@ -1,4 +1,4 @@
-certifi==2019.6.16
+certifi==2022.12.7
 Django==2.2.13
 django-phone-field==1.7.1
 pipenv==2018.11.26
